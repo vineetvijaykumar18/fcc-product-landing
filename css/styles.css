@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+
+#nav-bar {
+    position: fixed;
+    top: 0; 
+    left: 0; 
+    width: 100%;
+    padding-bottom: 50px;
+
+}
+
+#header-img {
+    width: 5%;
+    height: auto;
+}
+
+
